@@ -1,7 +1,8 @@
 # Rakesh
 My Personal Repository
 
-![RAKESH](Profile.jpg)
+<!-- ![RAKESH](Profile.jpg) -->
+<img src="Profile.jpg" width="100" height="50">
 
 # - Hi, My name is [Rakesh](https://rkaybhaker.github.io/Profile/). I'm a web developer.
 - :pushpin: Currently working on [laravel](https://laravel.com/) to feel php better :earth_asia:
