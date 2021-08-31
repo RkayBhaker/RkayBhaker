@@ -10,7 +10,7 @@ My Personal Repository
 - :man: Profile : [Click Here](https://rkaybhaker.github.io/Profile/)
 - :mailbox_closed: How to reach me : [LinkedIn](https://www.linkedin.com/in/rakesh-048665177), [Instagram](https://www.instagram.com/r_kay_bhaker/)
 - :flashlight: 
-```
+```diff
 + Looking for new opportunity
 ```
 :electric_plug:
