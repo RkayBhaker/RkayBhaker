@@ -1,6 +1,6 @@
 # Rakesh
 My Personal Repository
-![RAKESH BHAKER](./Coding World(2021-04-29).jpg)
+![RAKESH BHAKER](Coding World(2021-04-29).jpg)
 # - Hi, My name is [Rakesh](https://rkaybhaker.github.io/Profile/). I'm a web developer.
 - :pushpin: Currently working on [laravel](https://laravel.com/) to feel php better :earth_asia:
 - :school: Studying in [NSTI Bangalore](https://nstibengaluru.dgt.gov.in/)
